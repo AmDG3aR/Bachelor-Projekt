@@ -11,7 +11,7 @@
     "top": "100px",
     "width": "150px"
   },
-  "author": "Erik Heldt",
+  "author": "Jakob Claußen",
   "version": "0.1",
   "preserveAspectRatio" : true,
   "directive": "anzeigeDos"
